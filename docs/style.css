@@ -276,6 +276,7 @@ section.works {
 }
 
 div.skill-container {
+    margin-bottom: 20px;
     display: grid;
     grid-template:
         'skill-logo skill-name' 1.75rem
@@ -305,6 +306,7 @@ div.skill-logo>img {
 }
 
 div.work-container {
+    margin-bottom: 20px;
     display: grid;
     grid-template:
         'work-name' 1.75rem
